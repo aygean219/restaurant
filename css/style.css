@@ -1,0 +1,126 @@
+.bg1{
+    background-image: url("https://images.pexels.com/photos/918327/pexels-photo-918327.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940") ; 
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bg2{
+    background-image: url("https://images.pexels.com/photos/2641886/pexels-photo-2641886.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940") ; 
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bg3{
+    background-image: url("https://images.pexels.com/photos/1893556/pexels-photo-1893556.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940") ; 
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bg4{
+    background-image: url("https://images.pexels.com/photos/1579926/pexels-photo-1579926.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940") ; 
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bg5{
+    background-image: url("https://images.pexels.com/photos/1893556/pexels-photo-1893556.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940") ; 
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.logostyle{
+    background: transparent;
+    width: 45%;
+    height: 45%;
+}
+
+.header {
+    display: inline-block;
+    background-color:black;
+    width: 300px;
+    height: 400px;
+    font-family: 'Dancing Script', cursive;
+    font-size: 150%;
+    border: 3px solid rgb(245, 241, 238);
+    text-align: center;
+    transform: translate(200%,50%);
+    opacity: 70%;
+    color:blanchedalmond
+}
+
+.line{
+    display: block;
+    opacity: 80%;
+    background-color:whitesmoke;
+    width: 100%;
+    height: 70px;
+    color: rgba(165, 42, 42, 0.699);
+    font-size: 50px;
+    text-align: center;
+}
+
+.mheader{
+    color:blanchedalmond;
+    font-size: 100%;
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif
+}
+
+.textline1{ 
+    display: inline-block;
+    background-color:black;
+    width: 630px;
+    height: 630px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 150%;
+    border: 3px solid rgb(245, 241, 238);
+    text-align: center;
+    transform: translate(70%,50%);
+    opacity: 70%;
+
+}
+.textline2{
+    
+    display: inline-block;
+    background-color:blanchedalmond;
+    width: 570px;
+    height: 570px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 150%;
+    border: 3px solid rgb(245, 241, 238);
+    text-align: center;
+    transform: translate(-27%,43%);
+    opacity: 100%;
+    color:black
+}
+.textline3{
+    display: inline-block;
+    background-color:blanchedalmond;
+    width: 500px;
+    height: 500px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 120%;
+    border: 3px solid rgb(245, 241, 238);
+    text-align: center;
+    transform: translate(-25%,33%);
+    color:black;
+    opacity: 100%;
+}
+.textline4{ 
+    display: inline-block;
+    background-color:black;
+    width: 600px;
+    height: 600px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 150%;
+    border: 3px solid rgb(245, 241, 238);
+    text-align: center;
+    transform: translate(70%,50%);
+    opacity: 70%;
+
+}
